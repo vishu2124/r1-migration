@@ -2,6 +2,8 @@
 
 Basics terraform
 
-### 1. intall Mac os
+### 1. Intall terraform on os
 
-- Mac os follow https://www.youtube.com/watch?v=ViMwnReV1A8
+- Mac os - https://www.youtube.com/watch?v=ViMwnReV1A8
+- Window - https://www.youtube.com/watch?v=bFgymnZk9O4
+- Linux - https://www.youtube.com/watch?v=1lbMFxSPcr0
