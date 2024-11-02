@@ -20,3 +20,5 @@ Basics terraform
 ### 3.0 variable
 
 - https://www.youtube.com/watch?v=xtepwIm1h80&list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&index=11
+- basic
+- with commandline ` terraform plan -var "username=pinku"`
