@@ -2,6 +2,8 @@
 
 ## Basics Terraform
 
+- follow commit histroy to understand the sequence
+
 ### 1. Intall terraform on os
 
 - Mac os - https://www.youtube.com/watch?v=ViMwnReV1A8
