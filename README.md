@@ -1,7 +1,7 @@
-# terraform
+# Terraform
 
 Basics terraform
 
-### -- intall Mac os
+### 1. intall Mac os
 
 - Mac os follow https://www.youtube.com/watch?v=ViMwnReV1A8
