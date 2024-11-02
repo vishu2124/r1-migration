@@ -12,19 +12,15 @@
 
 - Video to follow https://www.youtube.com/watch?v=GE8U_l8EeUA
   - to execute goto folder and type terraform plan
-
-#### 2.1 Basic Output
-
-    https://www.youtube.com/watch?v=asRd3uctpiE&list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&index=9&pp=iAQB
+- Basic Output https://www.youtube.com/watch?v=asRd3uctpiE&list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&index=9&pp=iAQB
 
 ### 3.0 Variable
 
-- https://www.youtube.com/watch?v=xtepwIm1h80&list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&index=11
-- Basic
+- Basic https://www.youtube.com/watch?v=xtepwIm1h80&list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&index=11
 - With commandline ` terraform plan -var "username=pinku"`
 - With Types
   `variable username {
-  type  = string
+type  = string
 }
 `
 
