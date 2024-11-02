@@ -1,5 +1,5 @@
 variable username {
-
+ default = "vishu"
 }
 
 # with string 

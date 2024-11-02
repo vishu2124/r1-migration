@@ -1,6 +1,6 @@
 # Terraform
 
-## Basics terraform
+## Basics Terraform
 
 ### 1. Intall terraform on os
 
