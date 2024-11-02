@@ -22,5 +22,10 @@
 - https://www.youtube.com/watch?v=xtepwIm1h80&list=PL6XT0grm_TfgdaAjTmLb4QedMCCMQHISm&index=11
 - Basic
 - With commandline ` terraform plan -var "username=pinku"`
+- With Types
+  `variable username {
+  type  = string
+}
+`
 
 ## Advance
